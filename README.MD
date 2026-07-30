@@ -75,6 +75,8 @@ DOI: 10.3847/1538-4357/ad3446
     <td width="50%">
     <img src="ZHANHAO.ZHAO__HOMEPAGE-2607-2__0_5X.PNG" width="100%">
     </td>
+    <td width="50%">
+    </td>
   </tr>
 </table>
 
