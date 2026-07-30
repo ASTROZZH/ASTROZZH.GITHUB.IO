@@ -9,18 +9,10 @@
   </tr>
   <tr>
     <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-2__0_10X.PNG" width="100%">
+    <img src="ZHANHAO.ZHAO__HOMEPAGE-2607-1__0_5X.PNG" width="100%">
     </td>
     <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-2__1_10X.PNG" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-3__0_10X.PNG" width="100%">
-    </td>
-    <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-3__1_10X.PNG" width="100%">
+    <img src="ZHANHAO.ZHAO__HOMEPAGE-2607-1__1_5X.PNG" width="100%">
     </td>
   </tr>
 </table>
@@ -81,10 +73,7 @@ DOI: 10.3847/1538-4357/ad3446
 <table>
   <tr>
     <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-4__0_10X.PNG" width="100%">
-    </td>
-    <td width="50%">
-    <img src="ZHANHAO.ZHAO__HOMEPAGE-2606-5__0_10X.PNG" width="100%">
+    <img src="ZHANHAO.ZHAO__HOMEPAGE-2607-2__0_5X.PNG" width="100%">
     </td>
   </tr>
 </table>
